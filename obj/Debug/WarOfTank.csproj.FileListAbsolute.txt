@@ -1,0 +1,11 @@
+D:\学习相关\C#\WarOfTank\bin\Debug\WarOfTank.exe.config
+D:\学习相关\C#\WarOfTank\bin\Debug\WarOfTank.exe
+D:\学习相关\C#\WarOfTank\bin\Debug\WarOfTank.pdb
+D:\学习相关\C#\WarOfTank\obj\Debug\WarOfTank.csproj.AssemblyReference.cache
+D:\学习相关\C#\WarOfTank\obj\Debug\WarOfTank.csproj.SuggestedBindingRedirects.cache
+D:\学习相关\C#\WarOfTank\obj\Debug\WarOfTank.Properties.Resources.resources
+D:\学习相关\C#\WarOfTank\obj\Debug\WarOfTank.csproj.GenerateResource.cache
+D:\学习相关\C#\WarOfTank\obj\Debug\WarOfTank.csproj.CoreCompileInputs.cache
+D:\学习相关\C#\WarOfTank\obj\Debug\WarOfTank.exe
+D:\学习相关\C#\WarOfTank\obj\Debug\WarOfTank.pdb
+D:\学习相关\C#\WarOfTank\obj\Debug\WarOfTank.Form1.resources
